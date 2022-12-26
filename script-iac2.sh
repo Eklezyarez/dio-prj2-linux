@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/ba
 
 echo "Atualizando o servidor..."
 apt-get update
